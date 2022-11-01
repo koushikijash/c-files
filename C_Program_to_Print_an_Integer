@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {   
+    int number = 7;
+    printf(number);
+    return 0;
+}
